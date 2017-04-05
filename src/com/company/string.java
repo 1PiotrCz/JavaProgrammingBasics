@@ -14,5 +14,11 @@ public class string {
         String greeting = text + space + name;
         System.out.println(greeting);
 
+        System.out.println("Hello" + " " + "Piotr");
+        System.out.println("My integer is: " + myInt);
+
+        double myDouble = 5.4;
+        System.out.println("My number is: " + myDouble);
+
     }
 }
