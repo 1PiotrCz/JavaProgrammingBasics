@@ -11,5 +11,8 @@ public class string {
         String space = " ";
         String name = "Piotr";
 
+        String greeting = text + space + name;
+        System.out.println(greeting);
+
     }
 }
