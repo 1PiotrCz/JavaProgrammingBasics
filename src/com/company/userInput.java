@@ -8,6 +8,9 @@ import java.util.Scanner;
 public class userInput {
     public static void main(String[] args) {
         Scanner scInput = new Scanner(System.in);
+
+        System.out.println("Enter a floating point value: ( example 2.3) ");
+
         
     }
 }
