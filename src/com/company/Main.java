@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int myNumer = 123;
+        int myNumer = 321;
         short myShort = 999;
         long myLong = 9897;
 
