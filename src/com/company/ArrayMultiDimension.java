@@ -6,8 +6,10 @@ package com.company;
 public class ArrayMultiDimension {
     public static void main(String[] args) {
          int [] vaules = {2,7,5,24,55};
+        System.out.println(vaules[2]);
+        
 
-         
+
 
     }
 }
