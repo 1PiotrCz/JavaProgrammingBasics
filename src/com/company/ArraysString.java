@@ -13,6 +13,23 @@ public class ArraysString {
         words[2] = "am";
         words[3] = "Piotr";
 
-        
+        System.out.println(words[1]);
+
+        String[] fruits ={"pear", "apple", "banana"};
+
+        for(String fruit: fruits){
+            System.out.println(fruit);
+        }
+
+        int value = 0;
+
+        String text = null;
+        System.out.println(text);
+
+        String[] texts = new String[2];
+        System.out.println(texts[0]);
+
+
+
     }
 }
