@@ -13,6 +13,10 @@ public class ClassesAndObject {
         person1.name = "Peter X";
         person1.age = 15;
 
-        
+        Person person2 = new Person();
+        person2.name = "Anna Y";
+        person2.age = 22;
+
+        System.out.println(person1.name);
     }
 }
