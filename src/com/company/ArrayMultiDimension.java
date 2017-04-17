@@ -30,6 +30,5 @@ public class ArrayMultiDimension {
             System.out.println();
         }
 
-
     }
 }
